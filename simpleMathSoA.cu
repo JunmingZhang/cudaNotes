@@ -1,5 +1,6 @@
 #include <cuda_runtime.h>
 #include <stdio.h>
+#include <sys/time.h>
 
 #define CHECK(call)                                                            \
 {                                                                              \
